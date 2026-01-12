@@ -6,7 +6,7 @@
     background-color: gold;
 }
 body{
-    background-image:url(../images/ngopicture1.jpg);
+    background-image:url(images/ngopicture1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height:100%;
